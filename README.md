@@ -1,5 +1,5 @@
 # CIS-17B-S25_Introduction
 
-Melissa Lopez
-Professor John o'Connor
-CIS-17B-33477
+Melissa Lopez\n
+Professor John o'Connor\n
+CIS-17B-33477\n
